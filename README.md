@@ -1,3 +1,4 @@
+![](https://github.com/mararam/mararam/blob/main/images/header.jpg)
 ### Hi I'm [Ram Mara](https://github.com/mararam), welcome to my page.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/rammara)
