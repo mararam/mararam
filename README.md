@@ -8,3 +8,5 @@
 ![Profile views](https://gpvc.arturio.dev/mararam)
 ## ~$ whoami?
 :office: I am a Technical Specialist - Azure working  at [Insight](https://www.insight.com/en_US/home.html)
+
+[![Ram's github stats](https://github-readme-stats.vercel.app/api?username=mararam&show_icons=true&theme=default&disable_animations=false)](https://github.com/anuraghazra/github-readme-stats)
